@@ -1,2 +1,2 @@
 # RedditSentiment
-Sentiment analysis of the german, austrian and swiss redit
+Sentiment analysis of the german, austrian and swiss redidt
